@@ -1,2 +1,3 @@
 # first-demo
-This is my first app
+This is my first git repository.
+Author-kamlesh singh
